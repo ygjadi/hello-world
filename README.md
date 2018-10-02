@@ -1,6 +1,5 @@
 # hello-world
 IOS Pre-work
-## NAME_OF_YOUR_APP_HERE
 Color and text changer
 ### App Description
 `TODO://` The purpose of this app is to get a basic understanding of Xcode and some of the functions. This app includes buttons, a label, a text field, and color changing text.
