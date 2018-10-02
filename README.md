@@ -5,6 +5,12 @@ Color and text changer
 ### App Description
 `TODO://` The purpose of this app is to get a basic understanding of Xcode and some of the functions. This app includes buttons, a label, a text field, and color changing text.
 
+-Double tapped the purple area to change the view color back to gray.
+-Used an if statement to print "Goodbye"
+-Used buttons to edit text
+-Contains gesture festures
+
+
 ### App Walk-though
 
 <img src="http://g.recordit.co/HsDaD5v5zc.gif" width=200><br>
